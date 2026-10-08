@@ -51,7 +51,7 @@ Spring 기반의 백엔드 개발을 중심으로
 ---
 
 ### 🐾 PABOM
-> 반려동물의 건강 관리를 위한 헬스케어 애플리케이션
+> 반려 파충류의 건강 관리 및 사육 환경 관리를 위한 헬스케어 앱
 
 🔗 [pabom-backend](https://github.com/search?q=pabom-backend&type=repositories)
 
