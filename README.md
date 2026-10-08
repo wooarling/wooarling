@@ -18,7 +18,7 @@ Spring 기반의 백엔드 개발을 중심으로
 
 <br/>
 
-## 🛠 Tech Stack
+## 🤎 Tech Stack
 
 ### Backend
 
@@ -41,7 +41,7 @@ Spring 기반의 백엔드 개발을 중심으로
 
 <br/>
 
-## 📂 Projects
+## 🤎 Projects
 
 ### 🛡️ OmniGuardy
 > AI 기반 현관 이상 상황 감지 및 안전 모니터링 시스템
